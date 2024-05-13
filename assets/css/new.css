@@ -1,0 +1,115 @@
+
+
+.style-10 {
+    flex: 0 0 25%;
+    max-width: 25%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-11 {
+    margin-top: 20px;
+    display: block;
+    box-sizing: border-box;
+}
+
+.style-12 {
+    margin-bottom: 30px;
+    position: relative;
+    border: 0.666667px solid rgb(220, 220, 220);
+    border-radius: 4px;
+    padding: 24px;
+    display: block;
+    box-sizing: border-box;
+}
+
+.style-13 {
+    box-sizing: border-box;
+}
+
+.style-14 {
+    border: 0px none rgb(29, 29, 29);
+    box-sizing: border-box;
+}
+
+.style-15 {
+    border: 0.666667px solid rgb(220, 220, 220);
+    border-radius: 4px;
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: stretch;
+    width: 100%;
+    box-sizing: border-box;
+}
+
+.style-20 {
+    margin-bottom: 30px;
+    position: relative;
+    border: 0.666667px solid rgb(220, 220, 220);
+    border-radius: 4px;
+    padding: 24px;
+    display: block;
+    box-sizing: border-box;
+}
+
+
+
+/* Pagination styles */
+.pagination {
+    margin-top: 20px;
+}
+
+.page-link {
+    color: #eda620;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+}
+
+.page-link:hover {
+    color: #eda620;
+    background-color: #e9ecef;
+    border-color: #dee2e6;
+}
+
+.page-item.active .page-link {
+    z-index: 1;
+    color: #fff;
+    background-color: #eda620;
+    border-color: #eda620;
+}
+
+.page-item.disabled .page-link {
+    color: #6c757d;
+    pointer-events: none;
+    cursor: auto;
+    background-color: #fff;
+    border-color: #dee2e6;
+}
+
+
+
+.footer {
+    background-color: #eda620;
+}
+
+.footer a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Inherit text color from parent */
+}
+
+.footer h3 {
+    margin-top: 0; /* Remove default margin from heading */
+}
+
+.footer ul {
+    padding-left: 0; /* Remove default padding from ul */
+    list-style: none; /* Remove default list styles */
+}
+
+.footer p {
+    margin: 0; /* Remove default margin from paragraphs */
+}

@@ -1,0 +1,2674 @@
+.style-0 {
+    flex: 0 0 100%;
+    max-width: 100%;
+    position: relative;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    box-sizing: border-box;
+}
+
+.style-1 {
+    box-sizing: border-box;
+}
+
+.style-2 {
+    box-sizing: border-box;
+    hyphens: manual;
+}
+
+.about-us-content h3 {
+    color: rgb(213, 32, 39);
+    font-weight: 600;
+    box-sizing: border-box;
+    font-size: 32px;
+    display: block;
+}
+
+.Messagefromceo h3 {
+    color: rgb(213, 32, 39);
+    margin-top: 20px;
+    padding-bottom: 40px;
+}
+
+.flip-card {
+    perspective: 1000px; /* Remove this line if you don't want 3D effect */
+}
+
+.flip-card-inner {
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.5s;
+    transform-style: preserve-3d;
+}
+
+.flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+}
+
+.flip-card-front,
+.flip-card-back {
+    width: 100%;
+    height: 100%;
+    backface-visibility: hidden;
+    top: 0;
+    left: 0;
+}
+
+.flip-card-front {
+    color: black;
+}
+
+.flip-card-back {
+    /* color: white; */
+    transform: rotateY(180deg);
+}
+
+.active-icon {
+    color: red !important;
+}
+
+.style-193, .style-197, .style-201, .style-205, .style-209, .style-213 {
+    transition: transform 0.3s ease;
+  }
+  
+  .style-193:hover, .style-197:hover, .style-201:hover, .style-205:hover, .style-209:hover, .style-213:hover {
+    transform: scale(1.1);
+  }
+
+.circle-icon {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 65px; /* Adjust size as needed */
+    height: 65px; /* Adjust size as needed */
+    border-radius: 50%;
+    background-color: #007bff; /* Circle background color */
+    color: white; /* Icon color */
+    margin: auto;
+}
+
+
+.style-35 {
+    box-sizing: border-box;
+    max-width: 100%;
+    width: 100%;
+    margin: 0px;
+    line-height: 14px;
+    border: 0px none rgb(29, 29, 29);
+    top: 0px;
+    left: 0px;
+    height: 500px;
+    background-color: rgb(0, 0, 0);
+}
+
+.style-64 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-65 {
+    width: 100%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-66 {
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-67 {
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-68 {
+    box-sizing: border-box;
+    margin: 0px;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-69 {
+    box-sizing: border-box;
+}
+
+.style-70 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 58px;
+    color: rgb(29, 29, 29);
+    font-family: Marcellus, sans-serif;
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-71 {
+    display: block;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(213, 32, 39);
+}
+
+.style-72 {
+    display: block;
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s;
+    --widgets-spacing: 0px;
+    width: 100%;
+    position: relative;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-73 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-74 {
+    width: 39.999%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-75 {
+    box-sizing: border-box;
+    padding: 0px;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-76 {
+    animation-name: fadeInLeft;
+    text-align: center;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-77 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-78 {
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+    box-sizing: border-box;
+    border: 0px none rgb(29, 29, 29);
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.style-79 {
+    width: 60.001%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-80 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s;
+    padding: 0px;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-81 {
+    animation-name: fadeInRight;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-82 {
+    box-sizing: border-box;
+    margin: 10px 0px 0px 10px;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-83 {
+    text-align: justify;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-84 {
+    color: #000000;
+    box-sizing: border-box;
+}
+
+.style-85 {
+    display: none;
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s;
+    --widgets-spacing: 0px;
+    width: 100%;
+    position: relative;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-86 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-87 {
+    width: 100%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-88 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s;
+    padding: 0px;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-89 {
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    visibility: hidden;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-90 {
+    box-sizing: border-box;
+    margin: 10px 0px 0px 10px;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-91 {
+    text-align: center;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    box-sizing: border-box;
+}
+
+.style-92 {
+    color: #000000;
+    box-sizing: border-box;
+}
+
+.style-93 {
+    display: block;
+    box-sizing: border-box;
+    margin-top: 5px;
+    margin-bottom: 0px;
+    padding: 0px;
+    --widgets-spacing: 0px;
+    position: relative;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-94 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-95 {
+    width: 100%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-96 {
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-97 {
+    text-align: center;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-98 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-99 {
+    vertical-align: middle;
+    display: inline-block;
+    max-width: 100%;
+    height: auto;
+    border-style: none;
+    box-sizing: border-box;
+    border: 0px none rgb(29, 29, 29);
+    border-radius: 0px;
+    box-shadow: none;
+}
+
+.style-100 {
+    display: block;
+    box-sizing: border-box;
+    margin-top: -60px;
+    margin-bottom: 0px;
+    --widgets-spacing: 0px;
+    position: relative;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-101 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-102 {
+    width: 100%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-103 {
+    padding: 0px 15px;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-104 {
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-105 {
+    box-sizing: border-box;
+    margin: 0px;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-106 {
+    box-sizing: border-box;
+}
+
+.style-107 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 58px;
+    color: rgb(29, 29, 29);
+    font-family: Marcellus, sans-serif;
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-108 {
+    display: block;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(213, 32, 39);
+}
+
+.style-109 {
+    display: block;
+    box-sizing: border-box;
+    margin-top: 10px;
+    margin-bottom: 0px;
+    --widgets-spacing: 0px;
+    position: relative;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-110 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-111 {
+    width: 25%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-112 {
+    padding: 0px 15px;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-113 {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-114 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-115 {
+    box-sizing: border-box;
+}
+
+.style-116 {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    height: 280px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-117 {
+    transform: none;
+    z-index: 1;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(52, 190, 190);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-118 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-119 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-120 {
+    margin-bottom: 20px;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    box-sizing: border-box;
+}
+
+.style-121 {
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    line-height: 22px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    font-size: 50px;
+    text-align: center;
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-122 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 50px;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    width: 1em;
+    height: 50px;
+    position: relative;
+}
+
+.style-123 {
+    line-height: 21px;
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 23px;
+    margin-bottom: 11.5px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    font-family: Marcellus, sans-serif;
+}
+
+.style-124 {
+    transform: matrix3d(1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1);
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(237, 166, 32);
+    display: block;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-125 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-126 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-127 {
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.style-128 {
+    width: 25%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-129 {
+    padding: 0px 15px;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-130 {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-131 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-132 {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    height: 280px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-133 {
+    transform: none;
+    z-index: 1;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(138, 69, 145);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-134 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-135 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-136 {
+    margin-bottom: 20px;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    box-sizing: border-box;
+}
+
+.style-137 {
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    line-height: 22px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    font-size: 50px;
+    text-align: center;
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-138 {
+    display: block;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    font-family: Material-Design-Iconic-Font;
+    font-style: normal;
+    line-height: 50px;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    width: 1em;
+    height: 50px;
+    position: relative;
+}
+
+.style-139 {
+    line-height: 21px;
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 23px;
+    margin-bottom: 11.5px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    font-family: Marcellus, sans-serif;
+}
+
+.style-140 {
+    transform: matrix3d(1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1);
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(237, 166, 32);
+    display: block;
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-141 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    border-radius: 5px;
+}
+
+.style-142 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-143 {
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.style-144 {
+    width: 25%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-145 {
+    padding: 0px 15px;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-146 {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-147 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-148 {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    height: 280px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-149 {
+    transform: none;
+    z-index: 1;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(244, 133, 32);
+    box-sizing: border-box;
+}
+
+.style-150 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+.style-151 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-152 {
+    margin-bottom: 20px;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    box-sizing: border-box;
+}
+
+.style-153 {
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    line-height: 22px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    font-size: 50px;
+    text-align: center;
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-154 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 50px;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    width: 1em;
+    height: 50px;
+    position: relative;
+}
+
+.style-155 {
+    line-height: 21px;
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 23px;
+    margin-bottom: 11.5px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    font-family: Marcellus, sans-serif;
+}
+
+.style-156 {
+    transform: matrix3d(1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1);
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(237, 166, 32);
+    display: block;
+    box-sizing: border-box;
+}
+
+.style-157 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+.style-158 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-159 {
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.style-160 {
+    width: 25%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-161 {
+    padding: 0px 15px;
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-162 {
+    animation-name: fadeIn;
+    animation-duration: 1s;
+    animation-fill-mode: both;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-163 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-164 {
+    perspective: 1000px;
+    transform-style: preserve-3d;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    height: 280px;
+    position: relative;
+    box-sizing: border-box;
+}
+
+.style-165 {
+    transform: none;
+    z-index: 1;
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(188, 214, 56);
+    box-sizing: border-box;
+}
+
+.style-166 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+.style-167 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-168 {
+    margin-bottom: 20px;
+    --e-flip-box-view-framed-stacked-icon-color: #fff;
+    box-sizing: border-box;
+}
+
+.style-169 {
+    border-color: rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    line-height: 22px;
+    box-sizing: border-box;
+    border-radius: 50%;
+    display: inline-block;
+    transition: all 0.3s ease 0s;
+    font-size: 50px;
+    text-align: center;
+    padding: 25px;
+    background-color: rgba(0, 0, 0, 0);
+}
+
+.style-170 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    -webkit-font-smoothing: antialiased;
+    display: block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 50px;
+    box-sizing: border-box;
+    transform: matrix(1, 0, 0, 1, 0, 0);
+    width: 1em;
+    height: 50px;
+    position: relative;
+}
+
+.style-171 {
+    line-height: 21px;
+    font-weight: 600;
+    font-size: 21px;
+    margin-top: 23px;
+    margin-bottom: 11.5px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+    font-family: Marcellus, sans-serif;
+}
+
+.style-172 {
+    transform: matrix3d(1, 0, 0, 0, 0, -1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1);
+    transform-style: preserve-3d;
+    backface-visibility: hidden;
+    position: absolute;
+    width: 100%;
+    height: 280px;
+    transition: all 0.6s ease-in-out 0s;
+    background-color: rgb(237, 166, 32);
+    display: block;
+    box-sizing: border-box;
+}
+
+.style-173 {
+    transform-style: preserve-3d;
+    display: flex;
+    width: 100%;
+    height: 280px;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: column;
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: stretch;
+    align-items: stretch;
+    text-align: center;
+    padding: 35px;
+    color: rgb(255, 255, 255);
+    box-sizing: border-box;
+}
+
+.style-174 {
+    transform: matrix3d(0.91, 0, 0, 0, 0, 0.91, 0, 0, 0, 0, 1, 0, 0, 0, 90, 1);
+    box-sizing: border-box;
+}
+
+.style-175 {
+    font-size: 14px;
+    box-sizing: border-box;
+}
+
+.style-176 {
+    display: block;
+    box-sizing: border-box;
+    padding: 0px;
+    --widgets-spacing: 0px;
+    position: relative;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-177 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-178 {
+    width: 100%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-179 {
+    box-sizing: border-box;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-180 {
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    margin-bottom: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-181 {
+    box-sizing: border-box;
+    margin: 40px 0px 0px;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-182 {
+    box-sizing: border-box;
+}
+
+.style-183 {
+    font-size: 36px;
+    font-weight: 400;
+    line-height: 58px;
+    color: rgb(29, 29, 29);
+    font-family: Marcellus, sans-serif;
+    display: flex;
+    flex-direction: column-reverse;
+    margin: 0px;
+    text-align: center;
+    position: relative;
+    margin-top: 0px;
+    margin-bottom: 0px;
+    box-sizing: border-box;
+}
+
+.style-184 {
+    display: block;
+    box-sizing: border-box;
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(213, 32, 39);
+}
+
+.style-185 {
+    display: block;
+    box-sizing: border-box;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    --widgets-spacing: 0px;
+    width: 100%;
+    position: relative;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-186 {
+    box-sizing: border-box;
+    max-width: 1320px;
+    display: flex;
+    margin-right: auto;
+    margin-left: auto;
+    position: relative;
+}
+
+.style-187 {
+    width: 100%;
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    display: flex;
+    min-height: 1px;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-188 {
+    box-sizing: border-box;
+    padding: 0px;
+    display: flex;
+    position: relative;
+    width: 100%;
+    flex-wrap: wrap;
+    align-content: flex-start;
+}
+
+.style-189 {
+    box-sizing: border-box;
+    --widgets-spacing: 0px;
+    position: relative;
+    width: 100%;
+    --flex-direction: initial;
+    --flex-wrap: initial;
+    --justify-content: initial;
+    --align-items: initial;
+    --align-content: initial;
+    --gap: initial;
+    --flex-basis: initial;
+    --flex-grow: initial;
+    --flex-shrink: initial;
+    --order: initial;
+    --align-self: initial;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    -webkit-box-pack: start;
+    justify-content: normal;
+    -webkit-box-align: stretch;
+    align-items: normal;
+    align-content: normal;
+    gap: normal;
+    flex-basis: auto;
+    -webkit-box-flex: 0;
+    flex-grow: 0;
+    flex-shrink: 1;
+    -webkit-box-ordinal-group: 1;
+    order: 0;
+    align-self: auto;
+}
+
+.style-190 {
+    box-sizing: border-box;
+    transition: background 0.3s ease 0s, border 0.3s ease 0s, border-radius 0.3s ease 0s, box-shadow 0.3s ease 0s, -webkit-box-shadow 0.3s ease 0s;
+}
+
+.style-191 {
+    position: relative;
+    margin: 0px auto;
+    box-sizing: border-box;
+    border-radius: 50%;
+    height: 400px;
+    width: 400px;
+    background-color: rgb(255, 255, 255);
+    border-style: solid;
+    border-width: 2px;
+    border-color: rgba(0, 0, 0, 0.4);
+}
+
+.style-192 {
+    transform: rotate(330deg) translate(198px) rotate(-330deg);
+    position: absolute;
+    top: 198px;
+    left: 198px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    background-color: rgba(237, 166, 32, 0.68);
+    color: rgb(213, 32, 39);
+    border-style: solid;
+    border-width: 0.666667px;
+    border-color: rgb(0, 0, 0);
+    width: 108px;
+    height: 108px;
+    margin: -54px;
+}
+
+.style-193 {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.style-194 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 32px;
+    box-sizing: border-box;
+    width: 32px;
+    font-size: 32px;
+}
+
+.style-195 {
+    box-sizing: border-box;
+}
+
+.style-196 {
+    transform: rotate(390deg) translate(198px) rotate(-390deg);
+    position: absolute;
+    top: 198px;
+    left: 198px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    background-color: rgb(237, 166, 32);
+    color: rgb(255, 255, 255);
+    width: 108px;
+    height: 108px;
+    margin: -54px;
+}
+
+.style-197 {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.style-198 {
+    vertical-align: middle;
+    display: inline-block;
+    box-sizing: border-box;
+    width: 32px;
+    font-size: 32px;
+}
+
+.style-199 {
+    box-sizing: border-box;
+}
+
+.style-200 {
+    transform: rotate(450deg) translate(198px) rotate(-450deg);
+    position: absolute;
+    top: 198px;
+    left: 198px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    background-color: rgb(237, 166, 32);
+    color: rgb(255, 255, 255);
+    width: 108px;
+    height: 108px;
+    margin: -54px;
+}
+
+.style-201 {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.style-202 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 400;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 32px;
+    box-sizing: border-box;
+    width: 32px;
+    font-size: 32px;
+}
+
+.style-203 {
+    box-sizing: border-box;
+}
+
+.style-204 {
+    transform: rotate(510deg) translate(198px) rotate(-510deg);
+    position: absolute;
+    top: 198px;
+    left: 198px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    background-color: rgb(237, 166, 32);
+    color: rgb(255, 255, 255);
+    width: 108px;
+    height: 108px;
+    margin: -54px;
+}
+
+.style-205 {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.style-206 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 32px;
+    box-sizing: border-box;
+    width: 32px;
+    font-size: 32px;
+}
+
+.style-207 {
+    box-sizing: border-box;
+}
+
+.style-208 {
+    transform: rotate(570deg) translate(198px) rotate(-570deg);
+    position: absolute;
+    top: 198px;
+    left: 198px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    background-color: rgb(237, 166, 32);
+    color: rgb(255, 255, 255);
+    width: 108px;
+    height: 108px;
+    margin: -54px;
+}
+
+.style-209 {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.style-210 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 32px;
+    box-sizing: border-box;
+    width: 32px;
+    font-size: 32px;
+}
+
+.style-211 {
+    box-sizing: border-box;
+}
+
+.style-212 {
+    transform: rotate(630deg) translate(198px) rotate(-630deg);
+    position: absolute;
+    top: 198px;
+    left: 198px;
+    border-radius: 50%;
+    box-sizing: border-box;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    cursor: pointer;
+    transition: all 0.5s ease 0s;
+    background-color: rgb(237, 166, 32);
+    color: rgb(255, 255, 255);
+    width: 108px;
+    height: 108px;
+    margin: -54px;
+}
+
+.style-213 {
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.style-214 {
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    -webkit-font-smoothing: antialiased;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+    line-height: 32px;
+    box-sizing: border-box;
+    width: 32px;
+    font-size: 32px;
+}
+
+.style-215 {
+    box-sizing: border-box;
+}
+
+.style-216 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    box-sizing: border-box;
+    text-align: center;
+    height: 400px;
+    width: 400px;
+    padding: 100px;
+}
+
+.style-217 {
+    transition: transform 0.3s ease, color 0.3s ease;
+  }
+  
+  .style-217:hover {
+    transform: scale(1.1);
+    color: red;
+  }
+
+.style-218 {
+    box-sizing: border-box;
+}
+
+.style-219 {
+    box-sizing: border-box;
+    background-color: rgb(213, 32, 39);
+    width: 47px;
+    height: 3px;
+    margin-top: 2px;
+}
+
+.style-220 {
+    box-sizing: border-box;
+    color: rgb(138, 138, 138);
+    margin-top: 10px;
+}
+
+.style-221 {
+    display: none;
+    box-sizing:border-box;
+    box-sizing: border-box;
+}
+
+.style-222 {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+}
+
+.style-223 {
+    box-sizing: border-box;
+}
+
+.style-224 {
+    box-sizing: border-box;
+    background-color: rgb(213, 32, 39);
+    width: 47px;
+    height: 3px;
+    margin-top: 2px;
+}
+
+
+.style-227 {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+}
+
+.style-228 {
+    box-sizing: border-box;
+}
+
+.style-229 {
+    box-sizing: border-box;
+    background-color: rgb(213, 32, 39);
+    width: 47px;
+    height: 3px;
+    margin-top: 2px;
+}
+
+.style-230 {
+    box-sizing: border-box;
+    color: rgb(138, 138, 138);
+    margin-top: 10px;
+}
+
+.style-231 {
+    display: none;
+    box-sizing:border-box;
+    box-sizing: border-box;
+}
+
+.style-232 {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+}
+
+.style-233 {
+    box-sizing: border-box;
+}
+
+.style-234 {
+    box-sizing: border-box;
+    background-color: rgb(213, 32, 39);
+    width: 47px;
+    height: 3px;
+    margin-top: 2px;
+}
+
+.style-235 {
+    box-sizing: border-box;
+    color: rgb(138, 138, 138);
+    margin-top: 10px;
+}
+
+.style-236 {
+    display: none;
+    box-sizing:border-box;
+    box-sizing: border-box;
+}
+
+.style-237 {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+}
+
+.style-238 {
+    box-sizing: border-box;
+}
+
+.style-239 {
+    box-sizing: border-box;
+    background-color: rgb(213, 32, 39);
+    width: 47px;
+    height: 3px;
+    margin-top: 2px;
+}
+
+.style-240 {
+    box-sizing: border-box;
+    color: rgb(138, 138, 138);
+    margin-top: 10px;
+}
+
+.style-241 {
+    display: none;
+    box-sizing:border-box;
+    box-sizing: border-box;
+}
+
+.style-242 {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+}
+
+.style-243 {
+    box-sizing: border-box;
+}
+
+.style-244 {
+    box-sizing: border-box;
+    background-color: rgb(213, 32, 39);
+    width: 47px;
+    height: 3px;
+    margin-top: 2px;
+}
+
+.style-245 {
+    box-sizing: border-box;
+    color: rgb(138, 138, 138);
+    margin-top: 10px;
+}
+
+.style-246 {
+    display: none;
+    box-sizing:border-box;
+    box-sizing: border-box;
+}
+
+.style-247 {
+    box-sizing: border-box;
+    color: rgb(0, 0, 0);
+}
+
+.style-248 {
+    box-sizing: border-box;
+}
+
+.style-249 {
+    box-sizing: border-box;
+    background-color: rgb(213, 32, 39);
+    width: 47px;
+    height: 3px;
+    margin-top: 2px;
+}
+
+.style-250 {
+    box-sizing: border-box;
+    color: rgb(138, 138, 138);
+    margin-top: 10px;
+}
+
+
+.footer {
+    background-color: #eda620;
+}
+
+.footer a {
+    text-decoration: none; /* Remove underline from links */
+    color: inherit; /* Inherit text color from parent */
+}
+
+.footer h3 {
+    margin-top: 0; /* Remove default margin from heading */
+}
+
+.footer ul {
+    padding-left: 0; /* Remove default padding from ul */
+    list-style: none; /* Remove default list styles */
+}
+
+.footer p {
+    margin: 0; /* Remove default margin from paragraphs */
+}
